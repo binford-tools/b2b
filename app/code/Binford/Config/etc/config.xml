@@ -24,11 +24,55 @@
         </customer>
         <design>
             <head>
+                <default_title>
+                    <![CDATA[Binford® Tools Pro]]>
+                </default_title>
                 <demonotice>
                     <![CDATA[1]]>
                 </demonotice>
             </head>
+            <header>
+                <welcome>
+                    <![CDATA[When you need MORE POWER!]]>
+                </welcome>
+            </header>
+            <footer>
+                <copyright>
+                    <![CDATA[© 2020 Binford® Tools Pro. All rights reserved.]]>
+                </copyright>
+            </footer>
         </design>
+        <general>
+            <store_information>
+                <name>
+                    <![CDATA[Binford® Tools Pro]]>
+                </name>
+                <phone>
+                    <![CDATA[+49 89 41614787-0]]>
+                </phone>
+                <country_id>
+                    <![CDATA[DE]]>
+                </country_id>
+                <region_id>
+                    <![CDATA[81]]>
+                </region_id>
+                <postcode>
+                    <![CDATA[81541]]>
+                </postcode>
+                <city>
+                    <![CDATA[Munich]]>
+                </city>
+                <street_line1>
+                    <![CDATA[Balanstraße 73]]>
+                </street_line1>
+                <street_line2>
+                    <![CDATA[Haus 8, 3. OG]]>
+                </street_line2>
+                <merchant_vat_number>
+                    <![CDATA[DE249664276]]>
+                </merchant_vat_number>
+            </store_information>
+        </general>
     </default>
 
 </config>
